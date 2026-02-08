@@ -1,5 +1,5 @@
 # iflash
-A very basic GUI flashing tool
+A very basic GUI flashing tool 
 
 [How to build](#how-to-compile)
 
