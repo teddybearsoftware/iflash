@@ -1,5 +1,7 @@
 # iflash
 A very basic GUI flashing tool
+[How to build](#how-to-compile)
+[Pre-built binary for OSX](#pre-built-binary)
 # How to compile
 Copy-paste to clone git repo and compile (with clang++, use g++ if needs be:)
 ```
@@ -13,3 +15,5 @@ Then just run:
 ```
 sudo ./iFlash
 ```
+#Pre-built binary
+OS X user? Just get the latest binary from [the project's Releases page](https://github.com/teddybearsoftware/iflash/releases/)
