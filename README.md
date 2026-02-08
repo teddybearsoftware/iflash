@@ -17,5 +17,5 @@ Then just run:
 ```
 sudo ./iFlash
 ```
-#Pre-built binary
+# Pre-built binary
 OS X user? Just get the latest binary from [the project's Releases page](https://github.com/teddybearsoftware/iflash/releases/)
