@@ -1,7 +1,7 @@
 # iflash
 A very basic GUI flashing tool 
 
-[How to build](#how-to-compile)
+[How to compile](#how-to-compile)
 
 [Pre-built binary for OSX](#pre-built-binary)
 # How to compile
